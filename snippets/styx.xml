@@ -49,6 +49,7 @@
   <!-- Hardware -->
   <project path="hardware/interfaces" name="hardware_interfaces" remote="styx" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="styx" />
+  <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="styx" />
 
   <!-- libcore -->
   <project path="libcore" name="libcore" remote="styx" />

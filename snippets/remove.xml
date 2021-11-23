@@ -65,6 +65,7 @@
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware"/>
+  <remove-project name="platform/hardware/qcom/wlan"/>
 
   <!-- libcore -->
   <remove-project name="platform/libcore"/>
