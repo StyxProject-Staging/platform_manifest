@@ -61,7 +61,6 @@
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="styx" />
-  <project path="system/memory/lmkd" name="system_memory_lmkd" remote="styx" />
   <project path="system/security" name="system_security" remote="styx" />
   <project path="system/sepolicy" name="system_sepolicy" remote="styx" />
   <project path="system/vold" name="system_vold" remote="styx" />
