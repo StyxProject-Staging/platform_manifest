@@ -8,8 +8,6 @@
   <remote  name="github"
            fetch="https://github.com" />
 
-  <!-- Android Runtime -->
-  <project path="art" name="art" remote="styx" />
 
   <!-- Build repositories -->
   <project path="bionic" name="bionic" remote="styx"/>
